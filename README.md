@@ -1,0 +1,3 @@
+#  Mathematics again ... 
+
+![ByeGIF (2)](https://github.com/AvitBrian/math_for_ml/assets/113444617/a6ab5a91-ca46-4c6a-8b3a-665d63336873)
